@@ -16,5 +16,7 @@ isFollow = false;
 console.log(isFollow);
 
 FullName = "siddharth mahato";
+_fullName = "siddharth singh";
+$fullName = "siddharth singh";
 console.log(fullName);
 console.log(FullName);
