@@ -28,4 +28,19 @@ console.log(fullnames);
 let age = 25;
 console.log(age)
 
+const PI = 3.14;
+console.log(PI);
+
+
+// block
+
+{
+      let a = 5;
+      console.log(a);
+}
+{
+      let a = 10;
+      console.log(a);
+}
+
 
