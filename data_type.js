@@ -38,3 +38,4 @@ const product = {
       offer: "free",
       price: 400.00
 }
+// question solved
