@@ -3,6 +3,26 @@
 // Number, String, Boolean, Underfined, Null, BigInt, Symbol
 
 // ***********************************************************
+let a = 25; // number
+let price = 100.2
+let fullName = "sidharth singh " // string
+
+isFollow = true   // boolean
+
+let x;  // underfined
+let y = null; // null
+
+let b = BigInt("1234"); //  BigInt
+
+let c = Symbol("hello!"); // Symbol
+
+
+
+
+
+
+
+
 
 
 
@@ -36,5 +56,25 @@ const product = {
       title: "ballen pen",
       ratting: 4,
       isDeal: true,
-      price: 400.00
-}
+      price: 400.00,
+      offer: 5,
+};
+
+console.log(product);
+console.log(product.offer);
+console.log(product["title"]);
+
+
+
+// QN(2) => Create a const object called "profile" to store information shown in the picture
+
+const profile ={
+      userName: "Siddharth singj",
+      isFollow: true,
+      follwing: 10,
+      followers: 20,
+      posts: 10
+};
+
+console.log(profile);
+console.log(typeof profile["userName"]);
