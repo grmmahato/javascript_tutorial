@@ -35,7 +35,7 @@ console.log(student.age);
 const product = {
       title: "ballen pen",
       ratting: 4,
-      offer: "free",
+      isDeal: true,
       price: 400.00
 }
 // question solved
