@@ -63,3 +63,18 @@ const product = {
 console.log(product);
 console.log(product.offer);
 console.log(product["title"]);
+
+
+
+// QN(2) => Create a const object called "profile" to store information shown in the picture
+
+const profile ={
+      userName: "Siddharth singj",
+      isFollow: true,
+      follwing: 10,
+      followers: 20,
+      posts: 10
+};
+
+console.log(profile);
+console.log(typeof profile["userName"]);
