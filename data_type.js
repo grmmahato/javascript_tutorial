@@ -56,5 +56,10 @@ const product = {
       title: "ballen pen",
       ratting: 4,
       isDeal: true,
-      price: 400.00
-}
+      price: 400.00,
+      offer: 5,
+};
+
+console.log(product);
+console.log(product.offer);
+console.log(product["title"]);
