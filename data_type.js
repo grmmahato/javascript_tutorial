@@ -38,4 +38,3 @@ const product = {
       isDeal: true,
       price: 400.00
 }
-// question solved
