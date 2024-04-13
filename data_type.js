@@ -27,3 +27,7 @@ const student ={
 };
 
 console.log(student);
+console.log(student.age);
+
+
+// QN(1) => Create a const object called "product" to store information shown in the picture.
