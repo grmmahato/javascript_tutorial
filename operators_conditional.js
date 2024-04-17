@@ -1,4 +1,4 @@
-// Arithmetic operators
+// Arithmetic operators**********************************
 
 let a = 5;
 let b = 15;
@@ -36,6 +36,11 @@ console.log("total amount = " +total);
 
 //alert(10 +2);
 
-// finished airthmetic operator
+// finished airthmetic operator ******************
+
+
+//JavaScript Assignment Operators**************************
+let text = "Hello"; text += " World";
+console.log(text);
 
 
