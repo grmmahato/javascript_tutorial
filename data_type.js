@@ -16,6 +16,12 @@ let b = BigInt("1234"); //  BigInt
 
 let c = Symbol("hello!"); // Symbol
 
+let am  = 5;
+let bm = 10;
+let cm = am + bm;
+
+console.log("total cm = $cm");
+
 
 
 
