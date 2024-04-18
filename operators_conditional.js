@@ -44,3 +44,14 @@ let text = "Hello"; text += " World";
 console.log(text);
 
 
+let xa = 10;
+xa **= 5;
+
+console.log(xa);
+
+
+let xb = 10;
+xb ||= 5;
+
+console.log(xb);
+
